@@ -10,3 +10,10 @@ The code is written on Jupyter Notebook. The data is imported from CSV file that
 - sklearn
 - seaborn
 - Matplotlib
+
+### What to improve
+The way how I impute the missing values still have so many flaws. Especially when we talk about this data that have large varieties of values. Filling NaN values with Linear Regression might be a solution.
+
+This project data visualization still far from perfect. Some data are hard to see so many people might have problem with interpreting the plot.
+
+The code is somewhat dirty and hard to read. Simplify and using available function might be a solution. The model can be improved and use pipleine to make it easier to read and write.
