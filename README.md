@@ -5,7 +5,7 @@ In this repository I try to make a model that predict if a Pokemon is legendary 
 
 
 ## Task and Learning Oppurtunities
-In this project I required to know how to Exploring my data and manipulating it, preparing it. Build the proper model and measure it. Starting from dataset that I get from Kaggle
+In this project I required to know how to Exploring my data and manipulating it, preparing it. Build the proper model and measure it. Starting from dataset that I get from Kaggle.
 
 see: https://www.kaggle.com/rounakbanik/pokemon
 
